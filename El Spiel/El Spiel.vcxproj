@@ -171,6 +171,9 @@
   <ItemGroup>
     <ClCompile Include="El Spiel.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="El Spiel.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
